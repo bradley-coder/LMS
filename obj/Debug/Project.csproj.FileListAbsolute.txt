@@ -1,0 +1,11 @@
+C:\Users\brad8\source\repos\Project\bin\Project.dll.config
+C:\Users\brad8\source\repos\Project\bin\Project.dll
+C:\Users\brad8\source\repos\Project\bin\Project.pdb
+C:\Users\brad8\source\repos\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\brad8\source\repos\Project\obj\Debug\Project.dll
+C:\Users\brad8\source\repos\Project\obj\Debug\Project.pdb
+C:\Users\brad8\source\repos\Project\bin\BLL.dll
+C:\Users\brad8\source\repos\Project\bin\DAL.dll
+C:\Users\brad8\source\repos\Project\bin\BLL.pdb
+C:\Users\brad8\source\repos\Project\bin\DAL.pdb
+C:\Users\brad8\source\repos\Project\obj\Debug\Project.csproj.CopyComplete
